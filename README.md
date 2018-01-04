@@ -12,6 +12,8 @@ Take a baseline installation of a Linux server and prepare it to host web applic
   * Including WSGI module
 * PostgreSQL
 * Git
+* Unattended Upgrades
+* Fail2Ban
 
 ## Summary of Configurations
 
