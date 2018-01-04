@@ -50,7 +50,7 @@ Take a baseline installation of a Linux server and prepare it to host web applic
 * @abha_356405465602580
 
 ### Digital Ocean
-* 'How To Deploy a Flask Application on an Ubuntu VPS' 
+* '_How To Deploy a Flask Application on an Ubuntu VPS_' 
   https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
-* 'How To Secure PostgreSQL on an Ubuntu VPS'
+* '_How To Secure PostgreSQL on an Ubuntu VPS_'
   https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
